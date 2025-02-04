@@ -11,4 +11,11 @@ a Data Science and Biotechnology Phd
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: 
+Answer: Merging combines two branches into one keeping both branches work in the merged branch. 
+Rebasing overwrites previous commits of another branch and rewrites the history with its own changes. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I want to see if I find Data Science interesting and potentially a career I can pursue in the future.
+
+
