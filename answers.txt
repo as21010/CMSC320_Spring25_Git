@@ -1,8 +1,14 @@
-Q2: What field could data science be applied to? Give an Example.
-
-Answer: Data Science can be applied to many fields one field is Biotechnology as I have seen many coworkers who have worked on 
-a Data Science and Biotechnology Phd
 Q1: Why might we consider using Git?
 
 Answer: It helps developers program on the same application together while not interfering with other peoples work
 They can work simultaneously on different branches so their work does not overlap and they can work independently.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be applied to many fields one field is Biotechnology as I have seen many coworkers who have worked on 
+a Data Science and Biotechnology Phd
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: 
