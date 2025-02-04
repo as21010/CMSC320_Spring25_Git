@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be applied to many fields one field is Biotechnology as I have seen many coworkers who have worked on 
+a Data Science and Biotechnology Phd
